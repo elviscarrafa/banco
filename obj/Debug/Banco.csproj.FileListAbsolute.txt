@@ -1,0 +1,15 @@
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dani\source\repos\Banco\bin\Debug\Banco.exe
+C:\Users\Dani\source\repos\Banco\bin\Debug\Banco.pdb
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.exe
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.pdb
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Dani\source\repos\Banco\obj\Debug\Banco.FormCadastroConta.resources
